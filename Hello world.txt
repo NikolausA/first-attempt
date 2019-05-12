@@ -1,1 +1,2 @@
 prnt ("Hello world!");
+print ("Hello everybody")
