@@ -1,4 +1,4 @@
-prnt ("Hello world!");
-print ("Hello everybody")
-print ("hello my dear friend")
-print ("Glad to see you")
+prnt ("Hello world!;")
+print ("Hello everybody;")
+print ("hello my dear friend;")
+print ("Glad to see you;")
